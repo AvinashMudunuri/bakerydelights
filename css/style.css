@@ -1298,7 +1298,7 @@ ul.bottom-links-w3_pvt li a {
 
 .footerv4-top {
     padding: 5em 0;
-    background: url(../images/banner1.jpg) no-repeat center;
+    background: #777;
     background-size: cover;
     position: relative;
 }
