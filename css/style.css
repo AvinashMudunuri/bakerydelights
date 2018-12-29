@@ -1380,6 +1380,10 @@ span.icon_facebook {
     background: #3b5998;
 }
 
+span.icon_instagram {
+  background: purple;
+}
+
 span.icon_dribbble {
     background: #ea4c89;
 }
