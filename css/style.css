@@ -940,7 +940,7 @@ h4.w3_pvt-ser_bot {
 /* stats */
 
 .slide-bg {
-    background: url(../images/about.png) no-repeat center;
+    background: url(../images/0.png) no-repeat center;
     background-size: cover;
     min-height: 50vh;
 }
@@ -1129,14 +1129,14 @@ a.button-3 {
     display: block;
     width: 100%;
   }
-  
+
 }
 @media (min-width:992px) and (max-width: 1199px) {
  .card-deck span:nth-of-type(3n) {
     display: block;
     width: 100%;
   }
-  
+
 }
 @media (min-width:768px) and (max-width: 991px) {
   .card-deck span:nth-of-type(2n) {
@@ -1241,7 +1241,7 @@ form.register-wthree .form-control {
 }
 
 textarea {
-    height: 200px;
+    height: 100px;
     resize: none;
 }
 
@@ -1775,7 +1775,7 @@ span.icon_g_plus {
 	.slide-btm-wthree-w3_pvt p i {
 		font-size: 1.4em;
 	}
-	
+
 }
 
 @media screen and (max-width: 375px) {
