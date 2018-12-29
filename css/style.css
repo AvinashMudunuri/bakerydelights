@@ -1245,6 +1245,10 @@ textarea {
     resize: none;
 }
 
+select.form-control:not([size]):not([multiple]) {
+  height: calc(3.25rem + 2px);
+}
+
 form.register-wthree .form-control {
     background: #eee;
     padding: 10px;
