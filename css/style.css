@@ -1244,6 +1244,12 @@ textarea {
     height: 100px;
     resize: none;
 }
+.notes {
+  list-style-type: square;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  padding-left: 40px;
+}
 
 select.form-control:not([size]):not([multiple]) {
   height: calc(3.25rem + 2px);
