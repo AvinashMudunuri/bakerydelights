@@ -476,7 +476,6 @@ ul.callbacks_tabs {
     content: '';
     width: 20%;
     height: 1px;
-    background: #ff725a;
     display: inline-block;
     margin-left: 8px;
 }
@@ -940,7 +939,7 @@ h4.w3_pvt-ser_bot {
 /* stats */
 
 .slide-bg {
-    background: url(../images/0.png) no-repeat center;
+    background: url(../images/logo.png) no-repeat center;
     background-size: cover;
     min-height: 50vh;
 }
